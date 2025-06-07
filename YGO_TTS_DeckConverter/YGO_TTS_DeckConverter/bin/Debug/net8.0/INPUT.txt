@@ -1,0 +1,8 @@
+{
+  "InstallPath": "C:\\ProjectIgnis\\",
+  "OutputPath": "C:\\Temp\\",
+  "Decks": [
+    "2025-TenpaiCustom",
+    "EdisonLightsworn"
+  ]
+}

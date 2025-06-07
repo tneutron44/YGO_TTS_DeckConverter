@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7tEF/aJJMHQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tsc\\source\\repos\\YGO_TTS_DeckConverter\\YGO_TTS_DeckConverter\\YGO_TTS_DeckConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tsc\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.5\\microsoft.win32.systemevents.9.0.5.nupkg.sha512",
+    "C:\\Users\\tsc\\.nuget\\packages\\system.drawing.common\\9.0.5\\system.drawing.common.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
